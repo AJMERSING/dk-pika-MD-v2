@@ -6,9 +6,9 @@ global.simpleBotname = "Anya" //⚠️ Only use normal and one work name here or
 
              //--------Owner & vcard--------\\
              global.botname = "Queen Anya" 
-             global.ownernumber = ['918811074852'] // Owner number //
-             global.vcardowner = ['918811074852'] // vcard owner number //
-             global.ownername = "3.69_Pika" // Owner name //
+             global.ownernumber = ['918955953704'] // Owner number //
+             global.vcardowner = ['918955953704'] // vcard owner number //
+             global.ownername = "DK-BOSS" // Owner name //
              global.ytname = "YT: ONYXPIKA" // Yt chanel name //
              global.socialm = "𝗚𝗶𝘁𝗵𝘂𝗯 : Pika4o4" // Github or insta name //
              global.location = "India, Assam, Dibrugarh" // Location //
